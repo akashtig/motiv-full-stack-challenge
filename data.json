@@ -1,0 +1,39 @@
+{
+    "sports": [
+        {
+            "id": "basketball",
+            "cover_src": "basketball.png",
+            "heading": "What is basketball?",
+            "description": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop while preventing the opposing team from shooting through their own hoop.",
+            "url": "https://en.wikipedia.org/wiki/Basketball"
+        },
+        {
+            "id": "cycling",
+            "cover_src": "cycling.png",
+            "heading": "What is cycling?",
+            "description": "Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport. People engaged in cycling are referred to as \"cyclists\", \"bicyclists\", or \"bikers\".",
+            "url": "https://en.wikipedia.org/wiki/Cycling"
+        },
+        {
+            "id": "yoga",
+            "cover_src": "yoga.png",
+            "heading": "A complete beginner's guide to yoga and its health benefits",
+            "description": "Derived from the Sanskrit word \"yuji,\" meaning yoke or union, yoga is an ancient practice that brings together mind and body.",
+            "url": "https://en.wikipedia.org/wiki/Yoga"
+        },
+        {
+            "id": "hockey",
+            "cover_src": "hockey.png",
+            "heading": "What is ice hockey?",
+            "description": "Ice hockey is a contact team sport played on ice, usually in an indoor or outdoor rink, in which two teams of skaters use their sticks to shoot a vulcanized rubber puck into their opponent's net to score goals.",
+            "url": "https://en.wikipedia.org/wiki/Ice_hockey"
+        },
+        {
+            "id": "football",
+            "cover_src": "football.png",
+            "heading": "What is American football?",
+            "description": "American football, referred to simply as football in the United States and Canada and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end.",
+            "url": "https://en.wikipedia.org/wiki/American_football"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "motiv-full-stack-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge for the Full-Stack Web Application Developer position at Motiv.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js",
+    "sass": "node-sass --output-style compressed scss/index.scss src/styles.css"
+  },
+  "author": "Motiv Studio Ltd.",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
