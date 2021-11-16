@@ -19,7 +19,10 @@ app.get('/',(req, res) => {
 });
 
 app.get('/sports',(req, res) => {  
-  res.sendFile(path.join(__dirname + '/data.json'));
+  // to emulate loading time
+  setTimeout(()=>{
+    res.sendFile(path.join(__dirname + '/data.json'));
+  },1000);
 
 });
 
