@@ -19,7 +19,7 @@ $.ajax(url, {
         card.target = 'new';
         card.innerHTML = `
             <span card-title>${sport.id}</span>
-            <img src="/images/${sport.cover_src}" alt="basketball">
+            <img src="/images/${sport.cover_src}" alt="${sport.id}">
             <h2 class="card-heading">${sport.heading}</h2>
             <p class="card-text">${sport.description}</p>`;
 
